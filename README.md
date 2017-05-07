@@ -10,3 +10,10 @@ Gubosd's github website
     print(a)
   
 good!!
+
+1. not bad
+2. easy
+3. short
+4. pretty
+
+see you again~
